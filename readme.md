@@ -15,21 +15,19 @@
 ## 22.8
 
 - [ ] Arbeitspaket 1: Erstellen Sie ein Projekt und beginnen Sie mit ersten Code-Skizzen. Das ist wichtig, Sie müssen heute bereits schon C#-Code hochladen!
-- [ ] Arbeitspaket 2 (Falls Sie den *maker space* besuchen, dann dürfen Sie diesen Punkt löschen. Ansonsten fügen Sie hier ein weiteres AP ein).
-- [ ] Arbeitspaket 3
+- [x] Arbeitspaket 2: Mockup für meine mobile Applikation
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, einen ersten Code und Skizze auf github hochzuladen!
+✍️ Heute habe ich mir ein Projekt überlegt die ich als mobile Applikation umsetzen werde. Danach habe ich einen Mockup erstellt, wie die App aussehen könnte.
 
 ## 29.8
 
-- [ ] Arbeitspaket 1
-- [ ] Arbeitspaket 2
-- [ ] Arbeitspaket 3 
-- [ ] Arbeitspaket 4
+- [ ] Arbeitspaket 1: Mini GPT Python kode analysieren und verstehen
+- [ ] Arbeitspaket 2: Projekt erstellen
+- [ ] Arbeitspaket 3: Den Python code übersetzen 
+- [ ] Arbeitspaket 4: GUI Aufbauen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
