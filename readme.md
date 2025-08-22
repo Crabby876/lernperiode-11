@@ -21,7 +21,7 @@
 
 ## 29.8
 
-- [ ] Arbeitspaket 1: Mini GPT Python kode analysieren und verstehen
+- [ ] Arbeitspaket 1: Mini GPT Pythoncode analysieren und verstehen
 - [ ] Arbeitspaket 2: Projekt erstellen
 - [ ] Arbeitspaket 3: Den Python code übersetzen 
 - [ ] Arbeitspaket 4: GUI Aufbauen
@@ -29,5 +29,6 @@
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
