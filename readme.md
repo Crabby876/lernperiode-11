@@ -21,14 +21,18 @@
 
 ## 29.8
 
-- [ ] Arbeitspaket 1: Mini GPT Pythoncode analysieren und verstehen
-- [ ] Arbeitspaket 2: Projekt erstellen
-- [ ] Arbeitspaket 3: Den Python code übersetzen 
-- [ ] Arbeitspaket 4: GUI Aufbauen
+- [ ] Arbeitspaket 1:Als Entwickler möchte ich den bestehenden Mini-GPT-Python-Code analysieren und verstehen,
+damit ich die Funktionsweise nachvollziehen und für die weitere Entwicklung nutzen kann.
+- [ ] Arbeitspaket 2: Als Entwickler möchte ich ein neues Projekt aufsetzen,
+damit ich eine saubere und strukturierte Grundlage für die Implementierung habe.
+- [ ] Arbeitspaket 3: Als Entwickler möchte ich den Mini-GPT-Python-Code in die gewünschte Zielsprache übersetzen.
+- [ ] Arbeitspaket 4: Als Nutzer möchte ich eine grafische Benutzeroberfläche (GUI) haben,
+damit ich den Mini-GPT-Code einfach und intuitiv bedienen kann.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
