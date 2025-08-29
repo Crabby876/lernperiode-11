@@ -17,21 +17,25 @@
 - [ ] Arbeitspaket 1: Erstellen Sie ein Projekt und beginnen Sie mit ersten Code-Skizzen. Das ist wichtig, Sie müssen heute bereits schon C#-Code hochladen!
 - [x] Arbeitspaket 2: Mockup für meine mobile Applikation
 
-✍️ Heute habe ich mir ein Projekt überlegt die ich als mobile Applikation umsetzen werde. Danach habe ich einen Mockup erstellt, wie die App aussehen könnte.
+Heute habe ich mir ein Projekt überlegt die ich als mobile Applikation umsetzen werde. Danach habe ich einen Mockup erstellt, wie die App aussehen könnte.
 
 ## 29.8
 
-- [ ] Arbeitspaket 1:Als Entwickler möchte ich den bestehenden Mini-GPT-Python-Code analysieren und verstehen,
+- [x] Arbeitspaket 1:Als Entwickler möchte ich den bestehenden Mini-GPT-Python-Code analysieren und verstehen,
 damit ich die Funktionsweise nachvollziehen und für die weitere Entwicklung nutzen kann.
-- [ ] Arbeitspaket 2: Als Entwickler möchte ich ein neues Projekt aufsetzen,
+- [x] Arbeitspaket 2: Als Entwickler möchte ich ein neues Projekt aufsetzen,
 damit ich eine saubere und strukturierte Grundlage für die Implementierung habe.
 - [ ] Arbeitspaket 3: Als Entwickler möchte ich den Mini-GPT-Python-Code in die gewünschte Zielsprache übersetzen.
 - [ ] Arbeitspaket 4: Als Nutzer möchte ich eine grafische Benutzeroberfläche (GUI) haben,
 damit ich den Mini-GPT-Code einfach und intuitiv bedienen kann.
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich den Python-Code analysiert und die Logik verstanden. Dannach habe ich den .NET MAUI Tutorial durchgearbeitet und habe mein Maui projekt erstellt. Nach dem Tutorial blieb jedoch keine zeit mehr übrig für die Rästlichen AP
 
-☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
+
+- [ ] Arbeitspaket 3: Als Entwickler möchte ich den Mini-GPT-Python-Code in die gewünschte Zielsprache übersetzen.
+- [ ] Arbeitspaket 4: Als Nutzer möchte ich eine grafische Benutzeroberfläche (GUI) haben,
+damit ich den Mini-GPT-Code einfach und intuitiv bedienen kann.
 
 
 
