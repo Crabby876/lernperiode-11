@@ -31,11 +31,14 @@ damit ich den Mini-GPT-Code einfach und intuitiv bedienen kann.
 
 Heute habe ich den Python-Code analysiert und die Logik verstanden. Dannach habe ich den .NET MAUI Tutorial durchgearbeitet und habe mein Maui projekt erstellt. Nach dem Tutorial blieb jedoch keine zeit mehr übrig für die Rästlichen AP
 
+## 05.09.2025
 
-
-- [ ] Arbeitspaket 3: Als Entwickler möchte ich den Mini-GPT-Python-Code in die gewünschte Zielsprache übersetzen.
+- [ ] Arbeitspaket 1: Als Entwickler möchte ich Expo lernen und mein Projekt in Expo umsetzen, deshalb schaue ich einen Tutorial
+- [ ] Arbeitspaket 2: Als Entwickler möchte ich üben in Expo zu programmieren und erstelle dafür eine App.
+- [ ]  Arbeitspaket 3: Als Entwickler möchte ich den Mini-GPT-Python-Code in die gewünschte Zielsprache übersetzen.
 - [ ] Arbeitspaket 4: Als Nutzer möchte ich eine grafische Benutzeroberfläche (GUI) haben,
 damit ich den Mini-GPT-Code einfach und intuitiv bedienen kann.
+
 
 
 
