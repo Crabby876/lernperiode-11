@@ -42,10 +42,12 @@ Heute habe ich mich entschieden, dass ich lieber eine modernere Methode für das
 
 ## 12.09.2025
 
-- [ ] Arbeitspaket 1: Als Entwickler möchte ich Expo lernen und mein Projekt in Expo umsetzen, deshalb schaue ich die Teile 6-9 des Tutorials an.
-- [ ] Arbeitspaket 2: Als Entwickler möchte ich den Mini-GPT-Python-Code in die gewünschte Zielsprache übersetzen.
-- [ ] Arbeitspaket 3: Als Nutzer möchte ich eine grafische Benutzeroberfläche (GUI) haben,
+- [x] Arbeitspaket 1: Als Entwickler möchte ich Expo lernen und mein Projekt in Expo umsetzen, deshalb schaue ich die Teile 6-9 des Tutorials an.
+- [ ] Arbeitspaket 2: Als Entwickler möchte ich eine Leetcode Aufgabe lösen, damit ich mein Logischesdenken trainieren kann.
+- [ ] Arbeitspaket 3: Als Entwickler möchte ich den Mini-GPT-Python-Code in die gewünschte Zielsprache übersetzen.
+- [ ] Arbeitspaket 4: Als Nutzer möchte ich eine grafische Benutzeroberfläche (GUI) haben,
 damit ich den Mini-GPT-Code einfach und intuitiv bedienen kann.
+
 
 
 
