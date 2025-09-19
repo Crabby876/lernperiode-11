@@ -40,14 +40,15 @@ Heute habe ich den Python-Code analysiert und die Logik verstanden. Dannach habe
       
 Heute habe ich mich entschieden, dass ich lieber eine modernere Methode für das Programmieren meiner App benutzen möchte, da es beim Lernen von Maui viele Komplikationen gab. Ich habe mich entschiede Expo zu benutzen und habe direkt mit einem Tutorial dazu gestartet. Damit alles auch in meinem Kopf bleibt, habe ich neben dem Tutorial gleichzeitig programmiert und habe mein erstes Expo App erstellt. Das Tutorial konnte ich leider nicht ganz fertig schauen.
 
-## 12.09.2025
+## 19.09.2025
 
 - [x] Arbeitspaket 1: Als Entwickler möchte ich Expo lernen und mein Projekt in Expo umsetzen, deshalb schaue ich die Teile 6-9 des Tutorials an.
-- [ ] Arbeitspaket 2: Als Entwickler möchte ich eine Leetcode Aufgabe lösen, damit ich mein Logischesdenken trainieren kann.
-- [ ] Arbeitspaket 3: Als Entwickler möchte ich den Mini-GPT-Python-Code in die gewünschte Zielsprache übersetzen.
-- [ ] Arbeitspaket 4: Als Nutzer möchte ich eine grafische Benutzeroberfläche (GUI) haben,
-damit ich den Mini-GPT-Code einfach und intuitiv bedienen kann.
-
+- [x] Arbeitspaket 2: Als Entwickler möchte ich eine Leetcode Aufgabe lösen, damit ich mein logisches Denken trainieren kann.
+- [x] Arbeitspaket 3: Als Entwickler möchte ich den Mini-GPT-Python-Code in die gewünschte Zielsprache übersetzen.
+- [ ] Arbeitspaket 4: Als Nutzer möchte ich eine grafische Benutzeroberfläche (GUI) haben, damit ich den Mini-GPT-Code einfach und intuitiv bedienen kann.
+      
+Heute habe ich an meiner Expo App weiter gearbeitet und habe den Python Code auf TypeScript übersetzt. Um mein logisches Denken zu trainieren habe ich danach zwei Leetcode Aufgaben gelöst, wo bei ich darauf geachtet habe, zuerst auf Papier die Logik zu überlegen und dann erst den Code zu schreiben. Für das letzte AP hatte ich leider keine Zeit mehr. 
+Leetcode link: [Leetcode profile](https://leetcode.com/u/crabby876/)
 
 
 
