@@ -50,6 +50,21 @@ Heute habe ich mich entschieden, dass ich lieber eine modernere Methode für das
 Heute habe ich an meiner Expo App weiter gearbeitet und habe den Python Code auf TypeScript übersetzt. Um mein logisches Denken zu trainieren habe ich danach zwei Leetcode Aufgaben gelöst, wo bei ich darauf geachtet habe, zuerst auf Papier die Logik zu überlegen und dann erst den Code zu schreiben. Für das letzte AP hatte ich leider keine Zeit mehr. 
 Leetcode link: [Leetcode profile](https://leetcode.com/u/crabby876/)
 
+## 31.10.2025
+
+- [ ] Arbeitspaket 1: Als Nutzer möchte ich eine grafische Benutzeroberfläche (GUI) haben, damit ich den Mini-GPT-Code einfach und intuitiv bedienen kann.
+- [ ] Arbeitspaket 2: Als Nutzer möchte ich leicht zwischen den verschiedenen Seiten navigieren können, damit ich das gewünschte schnell und einfach sehen kann.
+- [ ] Arbeitspaket 3: Als Entwickler möchte ich das der Mini-GPT fehlerfrei läuft, damit die Nutzer zufrieden sind.
+
+## Reflexion
+
+Während der Lernperiode 11 (22. August bis 31. Oktober 2025) habe ich an meiner mobilen App gearbeitet, die mithilfe eines Mini-GPT-Modells das nächste Wort beim Tippen vorhersagen soll. Zuerst habe ich die Idee entwickelt und ein Mockup erstellt. Danach analysierte ich den Mini-GPT-Python-Code, um seine Funktionsweise zu verstehen und später zu übersetzen.
+
+Ursprünglich wollte ich das Projekt mit .NET MAUI umsetzen, wechselte aber zu Expo, da es moderner und einfacher für mobile Apps ist. Durch Tutorials und eigene Übungen lernte ich den Umgang mit Expo und TypeScript und setzte erste App-Funktionen um. Außerdem übersetzte ich Teile des Mini-GPT-Codes von Python in TypeScript und gewann so ein tieferes Verständnis für Sprachmodelle.
+
+Zusätzlich löste ich Leetcode-Aufgaben, um mein logisches Denken und meine Programmierfähigkeiten zu verbessern. Insgesamt habe ich in dieser Lernperiode viel über mobile App-Entwicklung, maschinelles Lernen und strukturiertes Arbeiten gelernt. Besonders meine Fähigkeit, Probleme selbstständig zu lösen und neue Technologien zu erlernen, hat sich deutlich weiterentwickelt.
+
+Das nächste Mal möchte ich darauf achten, dass ich ein richtiges Projekt erstelle, anstatt an vielen verschiedenen Sachen zu arbeiten.
 
 
 
